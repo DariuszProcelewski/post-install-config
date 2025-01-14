@@ -50,5 +50,49 @@ Navigate to the Admin Panel > Agents > Departments to configure department-speci
   
 - Networking: Manages network-related tickets and infrastructure issues.
   
-This structure ensures tickets are routed to the appropriate team for efficient resolution
+This structure ensures tickets are routed to the appropriate team for efficient resolution.
+
+Click "Add New Department" and create "System Admins" Department: 
+
+![Screenshot 2025-01-14 061804](https://github.com/user-attachments/assets/0f35dd1d-c6b8-439d-a58f-c5bfa8eb2eba)
+![Screenshot 2025-01-14 062255](https://github.com/user-attachments/assets/5943c7fa-f220-4e02-b1dd-d3a9b51a7699)
+
+3. Configuring Teams (Cross-Department Collaboration)
+Navigate to the Admin Panel > Agents > Teams to set up teams by grouping agents from different departments.
+
+Online Banking: A team created to handle tasks and tickets related to online banking services, ensuring specialized support across departments.
+
+This setup facilitates collaboration and ensures agents with the right expertise are assigned to specific tasks.
+
+![Screenshot 2025-01-14 062854](https://github.com/user-attachments/assets/4c421c2a-7415-4ef9-b926-fed76e9cb795)
+![Screenshot 2025-01-14 063021](https://github.com/user-attachments/assets/977fb09f-4d9d-4269-a7c9-04a3a2bf5810)
+
+4. Configuring Ticket Creation Permissions
+   
+To manage who can create tickets, navigate to Admin Panel > Settings > User Settings:
+
+- Allow Anyone to Create Tickets: Uncheck the option for "Unregistered users can create tickets" to restrict ticket creation to registered users only.
+  
+- Registration Required: Enable this setting to require users to register and log in before submitting tickets.
+  
+This configuration ensures controlled access to the ticketing system and enhances security.
+
+![Screenshot 2025-01-14 063407](https://github.com/user-attachments/assets/f1942e08-d25a-4678-a3b6-4569a666ec76)
+
+5. Configuring Agents (Team Members)
+
+To add and assign agents to specific departments, navigate to Admin Panel > Agents > Add New:
+
+- Jane: Assigned to the System Admins department, focusing on system administration tasks.
+  
+- John: Assigned to the Support department, specializing in user support and general inquiries.
+  
+This setup ensures that each agent is appropriately aligned with their responsibilities.
+
+![Screenshot 2025-01-14 063746](https://github.com/user-attachments/assets/16c95745-1203-4e84-9e31-6516442688c5)
+![image](https://github.com/user-attachments/assets/e3cd131e-7e85-40cd-88b0-09341c23791d)
+![Screenshot 2025-01-14 064159](https://github.com/user-attachments/assets/18913131-7e75-4ecd-9d39-a4df1e623fe9)
+![Screenshot 2025-01-14 064259](https://github.com/user-attachments/assets/c94c2167-f1a9-42d0-a8a6-801fb2ab7777)
+
+
 
