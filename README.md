@@ -94,5 +94,13 @@ This setup ensures that each agent is appropriately aligned with their responsib
 ![Screenshot 2025-01-14 064159](https://github.com/user-attachments/assets/18913131-7e75-4ecd-9d39-a4df1e623fe9)
 ![Screenshot 2025-01-14 064259](https://github.com/user-attachments/assets/c94c2167-f1a9-42d0-a8a6-801fb2ab7777)
 
+Let's Add John
+![image](https://github.com/user-attachments/assets/546b1006-5d01-4913-970a-bf298f0aee59)
+![Screenshot 2025-01-14 064652](https://github.com/user-attachments/assets/ef1cd770-cf06-478c-a6e2-61c6dbc918bb)
+
+Then let's back to Agents and we gonna set passwords for Jane and John (we could do this durring setting up aganets accounts earlier)
+
+![Screenshot 2025-01-14 065435](https://github.com/user-attachments/assets/3f42555d-6e97-4146-bdc5-111fe352f793)
+
 
 
