@@ -22,18 +22,33 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Configuration Steps</h2>
 
+1. Configure Roles
+
 It’s essential to switch between the Admin and Agent panels, as each panel offers distinct configuration options. You can determine which panel you’re using by checking the top-right corner of the osTicket screen. If it displays "Agent Panel," you are currently in the Admin panel, and the reverse is true.
 
 The first step is to create a role named "Supreme Admin." For the purposes of this lab, this role will be granted all available permissions. To create it, open the Admin panel, go to the Agents menu, select Roles, and create the new role from there.
+
 ![Screenshot 2025-01-14 055440](https://github.com/user-attachments/assets/7eb8b66f-a36c-45b9-ac0e-e86e542a1783)
 ![Screenshot 2025-01-14 055732](https://github.com/user-attachments/assets/d5b439aa-2666-4c31-8835-2353eee86be6)
 ![Screenshot 2025-01-14 060336](https://github.com/user-attachments/assets/2d9260db-cded-416a-a7c7-899516312e59)
 
 Then go to Permissions -> Tickets and tick all boxes.
+
 ![Screenshot 2025-01-14 060429](https://github.com/user-attachments/assets/fac332d0-af37-496e-a533-f198de6bb037)
 
 Next Permissions -> Tasks and again tick all boxes and Press "Add Role".
+
 ![Screenshot 2025-01-14 060708](https://github.com/user-attachments/assets/43c0cd52-df90-48c7-bb01-98956394b358)
 
+2. Configuring Departments (Ticket Visibility and Team Roles: Help Desk, SysAdmins, Networking)
 
+Navigate to the Admin Panel > Agents > Departments to configure department-specific settings and ticket visibility.
+
+- SysAdmins: Configuration focuses on managing system-level tickets and administrative tasks.
+  
+- Help Desk: Primarily handles user support and general inquiries.
+  
+- Networking: Manages network-related tickets and infrastructure issues.
+  
+This structure ensures tickets are routed to the appropriate team for efficient resolution
 
