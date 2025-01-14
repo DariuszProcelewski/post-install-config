@@ -103,4 +103,36 @@ Then let's back to Agents and we gonna set passwords for Jane and John (we could
 ![Screenshot 2025-01-14 065435](https://github.com/user-attachments/assets/3f42555d-6e97-4146-bdc5-111fe352f793)
 
 
+6. Configuring Users (Customers)
+   
+To add new users (customers), navigate to Agent Panel > Users > Add New:
+
+This process ensures that customers are properly registered in the system for seamless communication and support.
+
+![Screenshot 2025-01-14 070506](https://github.com/user-attachments/assets/18aab741-c847-4816-8c65-b2ec61cdc9a0)
+![Screenshot 2025-01-14 070655](https://github.com/user-attachments/assets/6c164e11-87d1-4073-8537-61965769bad5)
+
+7. Configuring SLA (Service Level Agreements)
+   
+To define SLA's, navigate to Admin Panel > Manage > SLA and configure the following:
+
+- Sev-A: 1-hour grace period, available 24/7 for high-priority issues.
+  
+- Sev-B: 4-hour grace period, available 24/7 for medium-priority issues.
+  
+- Sev-C: 8-hour grace period, restricted to business hours for low-priority issues.
+  
+This configuration ensures timely responses based on the priority and urgency of tickets.
+
+![Screenshot 2025-01-14 071015](https://github.com/user-attachments/assets/b8bc8de9-6f25-4733-be58-f26ff3c7595f)
+![Screenshot 2025-01-14 071318](https://github.com/user-attachments/assets/6b18b9eb-19b8-48d4-b0fc-e3936cb2e401)
+
+What is Grace Period? 
+Determine the number of hours after a ticket is created that it will be automatically marked as overdue.
+Hours are counted during the specified Schedule. The hierarchy is Department Schedule, SLA Schedule, then System Default Schedule. If no Schedule is configured, the Hours are counted 24/7 (even after business hours) until the Ticket is Overdue.
+
+Let's add two more SLA's
+![image](https://github.com/user-attachments/assets/24c02ff2-0433-4b3d-8ed6-6674665b4b6d)
+![Screenshot 2025-01-14 071722](https://github.com/user-attachments/assets/8a068496-8731-41e0-a6ff-086116d31208)
+
 
