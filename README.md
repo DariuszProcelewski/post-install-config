@@ -135,4 +135,29 @@ Let's add two more SLA's
 ![image](https://github.com/user-attachments/assets/24c02ff2-0433-4b3d-8ed6-6674665b4b6d)
 ![Screenshot 2025-01-14 071722](https://github.com/user-attachments/assets/8a068496-8731-41e0-a6ff-086116d31208)
 
+8. Configuring Help Topics (User Ticket Categories)
+   
+To set up help topics for user ticket submissions, navigate to Admin Panel > Manage > Help Topics and create the following categories:
+
+- Business Critical Outage: For reporting urgent system-wide issues.
+  
+- Personal Computer Issues: For individual device-related problems.
+  
+- Equipment Request: For requesting hardware or other equipment.
+  
+- Password Reset: For assistance with account access and password recovery.
+  
+- Other: For tickets that don't fit into predefined categories.
+  
+These help topics streamline the ticketing process by categorizing issues for efficient handling.
+
+![Screenshot 2025-01-14 072130](https://github.com/user-attachments/assets/26bf92eb-c0c8-4025-a692-59118a8fc141)
+![Screenshot 2025-01-14 072320](https://github.com/user-attachments/assets/3d69ab41-a9a3-4b79-88c3-de0b9d44ab71)
+![image](https://github.com/user-attachments/assets/bfbba0f2-00a9-4da1-a397-b98c93e3f04c)
+![image](https://github.com/user-attachments/assets/8216855c-b558-425c-9063-177b7e69b36f)
+![image](https://github.com/user-attachments/assets/c8649960-8a49-4179-99c0-bfc8ab0af9b7)
+![image](https://github.com/user-attachments/assets/e501825f-01af-4d07-820c-06ec6286fc78)
+
+
+
 
